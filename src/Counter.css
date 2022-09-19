@@ -1,0 +1,12 @@
+.counter {
+    border: 2px solid skyblue;
+    padding: 30px;
+    width: 300px;
+    margin: 15px auto;
+    position: relative;
+}
+
+.counter span.value {
+    margin-left: 10px;
+}
+

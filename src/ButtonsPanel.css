@@ -1,0 +1,13 @@
+button {
+    text-align: center;
+    margin: 10px;
+    box-shadow: black 1px 1px;
+    background-color: skyblue;
+    border: 1px solid black;
+    padding: 10px;
+    transition: all 0.7s;
+}
+
+button:hover {
+    background-color: rgb(255, 98, 98);
+}

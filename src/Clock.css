@@ -1,0 +1,33 @@
+.clock, 
+.showClock {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+h4, 
+.showClock {
+    margin: 10px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.x {
+    font-size: 9px;
+    font-weight: 700;
+    color: red;
+    border: 1px solid black;
+    padding: 1px 4px;
+    transition: all 0.2s;
+}
+
+.x:hover {
+    background-color: red;
+    color: #fff;
+    cursor: pointer;
+}
+
+.showClock:hover {
+    color: red;
+    cursor: pointer;
+}
